@@ -13,13 +13,13 @@ Welcome! This repository contains my personal solutions to algorithmic challenge
 
 ## 📋 LeetCode Problem List
 
-| #     | Problem Name               | Difficulty | Status     | Solution Link                                |
-|-------|----------------------------|------------|------------|----------------------------------------------|
-| 1     | Two Sum                    | Easy       | ✅ Solved  | [\_0001\_TwoSum.java](src/leetcode/_0001_TwoSum.java) |
-| 35    | Search Insert Position     | Easy       | ✅ Solved  | [\_0035\_SearchInsertPosition.java](src/leetcode/_0035_SearchInsertPosition.java) |
-| 53    | Maximum Subarray           | Medium     | ✅ Solved  | [\_0053\_MaximumSubarray.java](src/leetcode/_0053_MaximumSubarray.java) |
-| 136   | Single Number              | Easy       | ✅ Solved  | [\_0136\_SingleNumber.java](src/leetcode/_0136_SingleNumber.java) |
-| 389   | Find the Difference        | Easy       | ✅ Solved  | [\_0389\_FindTheDifference.java](src/leetcode/_0389_FindTheDifference.java) |
-| 217   | Contains Duplicate         | Easy       | ⏳ To Do   | _Coming soon_                                |
-| 283   | Move Zeroes                | Easy       | ⏳ To Do   | _Coming soon_                                |
-| 189   | Rotate Array               | Medium     | ⏳ To Do   | _Coming soon_                                |
+| #     | Problem Name               | Difficulty | Status     |
+|-------|----------------------------|------------|------------|
+| 1     | Two Sum                    | Easy       | ✅ Solved  |
+| 35    | Search Insert Position     | Easy       | ✅ Solved  |
+| 53    | Maximum Subarray           | Medium     | ✅ Solved  |
+| 136   | Single Number              | Easy       | ✅ Solved  |
+| 389   | Find the Difference        | Easy       | ✅ Solved  |
+| 217   | Contains Duplicate         | Easy       | ⏳ To Do   |
+| 283   | Move Zeroes                | Easy       | ⏳ To Do   |
+| 189   | Rotate Array               | Medium     | ⏳ To Do   |
