@@ -3,7 +3,7 @@ package leetcode.tasks;
 /**
  * used binary search
  */
-public class SearchInsertPosition {
+public class _0035_SearchInsertPosition {
 
     public static int searchInsert(int[] nums, int target) {
         var lowIndex = 0;

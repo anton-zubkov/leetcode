@@ -3,7 +3,7 @@ package leetcode.tasks;
 /**
  * used xor
  */
-public class FindTheDifference {
+public class _0389_FindTheDifference {
 
     public static char findTheDifference(String s, String t) {
         char d = 0;

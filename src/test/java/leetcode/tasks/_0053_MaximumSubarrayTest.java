@@ -2,10 +2,10 @@ package leetcode.tasks;
 
 import org.junit.jupiter.api.Test;
 
-import static leetcode.tasks.MaximumSubarray53.maxSubArray;
+import static leetcode.tasks._0053_MaximumSubarray.maxSubArray;
 import static org.junit.jupiter.api.Assertions.*;
 
-class MaximumSubarray53Test {
+class _0053_MaximumSubarrayTest {
 
     @Test
     void testExample1() {

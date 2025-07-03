@@ -1,6 +1,6 @@
 package leetcode.tasks;
 
-public class MaximumSubarray53 {
+public class _0053_MaximumSubarray {
 
     /**
      * Brute Force Solution

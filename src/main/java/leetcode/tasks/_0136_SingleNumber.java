@@ -3,7 +3,7 @@ package leetcode.tasks;
 /**
  * resolved with xor operator -- there will be left beats only unique number
  */
-public class SingleNumber {
+public class _0136_SingleNumber {
 
     /**
      * a ^ a = 0
