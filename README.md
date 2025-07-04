@@ -23,4 +23,4 @@ Welcome! This repository contains my personal solutions to algorithmic challenge
 | 389   | Find the Difference        | Easy       | ✅ Solved  |
 | 217   | Contains Duplicate         | Easy       | ✅ Solved  |
 | 283   | Move Zeroes                | Easy       | ✅ Solved  |
-| 189   | Rotate Array               | Medium     | ⏳ To Do   |
+| 189   | Rotate Array               | Medium     | ✅ Solved  |
