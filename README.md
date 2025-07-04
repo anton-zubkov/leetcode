@@ -22,5 +22,5 @@ Welcome! This repository contains my personal solutions to algorithmic challenge
 | 136   | Single Number              | Easy       | ✅ Solved  |
 | 389   | Find the Difference        | Easy       | ✅ Solved  |
 | 217   | Contains Duplicate         | Easy       | ⏳ To Do   |
-| 283   | Move Zeroes                | Easy       | ⏳ To Do   |
+| 283   | Move Zeroes                | Easy       | ✅ Solved  |
 | 189   | Rotate Array               | Medium     | ⏳ To Do   |
