@@ -14,13 +14,15 @@ Welcome! This repository contains my personal solutions to algorithmic challenge
 
 ## 📋 LeetCode Problem List
 
-| #     | Problem Name               | Difficulty | Status     |
-|-------|----------------------------|------------|------------|
-| 1     | Two Sum                    | Easy       | ✅ Solved  |
-| 35    | Search Insert Position     | Easy       | ✅ Solved  |
-| 53    | Maximum Subarray           | Medium     | ✅ Solved  |
-| 136   | Single Number              | Easy       | ✅ Solved  |
-| 389   | Find the Difference        | Easy       | ✅ Solved  |
-| 217   | Contains Duplicate         | Easy       | ✅ Solved  |
-| 283   | Move Zeroes                | Easy       | ✅ Solved  |
-| 189   | Rotate Array               | Medium     | ✅ Solved  |
+| #   | Problem Name              | Difficulty | Status     |
+|-----|---------------------------|------------|------------|
+| 1   | Two Sum                   | Easy       | ✅ Solved  |
+| 35  | Search Insert Position    | Easy       | ✅ Solved  |
+| 53  | Maximum Subarray          | Medium     | ✅ Solved  |
+| 136 | Single Number             | Easy       | ✅ Solved  |
+| 189 | Rotate Array              | Medium     | ✅ Solved  |
+| 217 | Contains Duplicate        | Easy       | ✅ Solved  |
+| 283 | Move Zeroes               | Easy       | ✅ Solved  |
+| 389 | Find the Difference       | Easy       | ✅ Solved  |
+| 643 | Maximum Average Subarray I| Easy       | ✅ Solved  |
+
