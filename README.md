@@ -17,6 +17,7 @@ Welcome! This repository contains my personal solutions to algorithmic challenge
 | #   | Problem Name               | Difficulty | Status     |
 |-----|----------------------------|------------|------------|
 | 1   | Two Sum                    | Easy       | ✅ Solved  |
+| 2   | Add Two Numbers            | Medium     | ✅ Solved  |
 | 35  | Search Insert Position     | Easy       | ✅ Solved  |
 | 53  | Maximum Subarray           | Medium     | ✅ Solved  |
 | 136 | Single Number              | Easy       | ✅ Solved  |
