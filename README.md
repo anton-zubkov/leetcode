@@ -18,11 +18,12 @@ Welcome! This repository contains my personal solutions to algorithmic challenge
 |-----|----------------------------|------------|---------------|
 | 1   | Two Sum                    |🟢 Easy       | ✅ Solved      |
 | 2   | Add Two Numbers            |🟡 Medium     | ✅ Solved      |
-| 13  | Roman to Integer         |🟢 Easy       | ✅ Solved      |
+| 13  | Roman to Integer           |🟢 Easy       | ✅ Solved      |
+| 14  | Longest Common Prefix      |🟢 Easy       | ✅ Solved      |
 | 35  | Search Insert Position     |🟢  Easy      | ✅ Solved      |
 | 53  | Maximum Subarray           |🟡 Medium     | ✅ Solved      |
 | 136 | Single Number              |🟢  Easy      | ✅ Solved      |
-| 146 |  LRU Cache             |🟡 Medium     | ✅ Solved  |
+| 146 | LRU Cache                  |🟡 Medium     | ✅ Solved  |
 | 189 | Rotate Array               |🟡 Medium     | ✅ Solved      |
 | 217 | Contains Duplicate         |🟢  Easy      | ✅ Solved      |
 | 242 | Valid Anagram              |🟢  Easy      | ✅ Solved      |
