@@ -20,6 +20,7 @@ Welcome! This repository contains my personal solutions to algorithmic challenge
 | 2   | Add Two Numbers            |🟡 Medium     | ✅ Solved      |
 | 13  | Roman to Integer           |🟢 Easy       | ✅ Solved      |
 | 14  | Longest Common Prefix      |🟢 Easy       | ✅ Solved      |
+| 20  | Valid Parentheses          |🟢 Easy       | ✅ Solved      |
 | 35  | Search Insert Position     |🟢  Easy      | ✅ Solved      |
 | 53  | Maximum Subarray           |🟡 Medium     | ✅ Solved      |
 | 136 | Single Number              |🟢  Easy      | ✅ Solved      |
